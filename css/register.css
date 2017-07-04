@@ -1,0 +1,197 @@
+#register .header {
+    height: 100px;
+    box-shadow: 0px 5px 5px rgba(0,0,0,0.05);
+}
+
+#register .topbar,
+#register .content {
+    width: 1210px;
+    margin: 0 auto;
+}
+
+#register .content .content-wrap {
+    margin: 50px auto 60px;
+    width: 830px;
+    /*background-color: #ff9;*/
+}
+
+/**
+* register-topbar
+*/
+#register .topbar .logo .logo-icon {
+    float: left;
+    margin-top: 24px;
+    background: url("../assert/icon/register-common.png") no-repeat;
+    width: 160px;
+    height: 50px;
+}
+
+#register .topbar .logo .logo-title {
+    float: left;
+    height: 34px;
+    line-height: 34px;
+    margin-top: 34px;
+    padding-left: 30px;
+    font-size: 24px;
+    font-family: "Microsoft Yahei";
+    color: #333;
+}
+
+#register .topbar .link-login {
+    float: right;
+    margin-top: 55px;
+}
+
+#register .topbar .link-login span{
+    color: #999;
+    font-size: 16px;
+    font-family: "Microsoft Yahei";
+}
+
+#register .topbar .link-login a{
+    color: #000;
+    font-size: 16px;
+    font-family: "Microsoft Yahei";
+}
+
+/**
+* register-form
+*/
+#register .content .content-wrap .register-form {
+    float: left;
+    width: 400px;
+    padding-right: 104px;
+    border-right: 1px solid #bdbdbd;
+}
+
+#register .content .content-wrap .register-form .register-item {
+    width: 398px;
+    height: 52px;
+    line-height: 52px;
+    border: 1px solid #ddd;
+}
+
+#register .content .content-wrap .register-form .register-item label{
+    display: inline-block;
+    width: 110px;
+    text-align: center;
+}
+
+#register .content .content-wrap .register-form .register-item input{
+    width: 200px;
+    height: 20px;
+    padding: 16px 0px 16px 20px;
+    border: 0px;
+    font-size: 14px;
+}
+
+#register .content .content-wrap .register-form .register-protocol input{
+    vertical-align: text-top;
+    width: 16px;
+    height: 16px;
+}
+
+#register .content .content-wrap .register-form .register-protocol span,
+#register .content .content-wrap .register-form .register-protocol a{
+    vertical-align: text-top;
+    font-size: 12px;
+}
+
+#register .content .content-wrap .register-form .register-tip {
+    height: 32px;
+}
+
+#register .content .content-wrap .register-form .register-submit {
+    border: 0px;
+}
+
+#register .content .content-wrap .register-form .register-submit button {
+    border-width: 1px;
+    width: 398px;
+    height: 52px;
+    line-height: 54px;
+    color: white;
+    background: #e22;
+}
+
+/**
+* register-other
+*/
+#register .content .content-wrap .register-other{
+    float: left;
+    height: 605px;
+    padding-left: 90px;
+}
+
+#register .content .content-wrap .register-other .register-ohter-company{
+    width: 160px;
+    height: 60px;
+}
+
+#register .content .content-wrap .register-other .register-ohter-company {
+    border-bottom: 1px solid #bdbdbd;
+    margin-left: 30px;
+}
+
+#register .content .content-wrap .register-other .register-ohter-company a {
+    height: 30px;
+}
+
+#register .content .content-wrap .register-other .register-ohter-company a b{
+    display: inline-block;
+    background: url("../assert/icon/register-common.png") no-repeat;
+    background-position: 0px -50px;
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+    vertical-align: middle;
+}
+
+#register .content .content-wrap .register-other .register-ohter-company a span{
+    vertical-align: middle;
+    font-family: "Microsoft Yahei";
+    font-size: 14px;
+}
+
+#register .content .content-wrap .register-other .register-ohter-company a:hover span,
+#register .content .content-wrap .register-other .register-other-international a:hover span{
+    font-weight: 700;
+}
+
+#register .content .content-wrap .register-other .register-other-international {
+    width: 160px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#register .content .content-wrap .register-other .register-other-international a{
+    display: block;
+    width: 170px;
+    height: 40px;
+}
+
+#register .content .content-wrap .register-other .register-other-international a b{
+    display: inline-block;
+    background: url("../assert/icon/register-common.png") no-repeat;
+    background-position: -50px -50px;
+    width: 30px;
+    height: 30px;
+    /*margin-top: 7px;*/
+    margin-right: 15px;
+    vertical-align: text-bottom;
+}
+
+#register .content .content-wrap .register-other .register-other-international a span{
+    display: inline-block;
+    /*vertical-align: middle;*/
+    font-family: "Microsoft Yahei";
+    font-size: 14px;
+}
+
+
+/*.footbar {
+    background-color: #00f;
+    height: 110px;
+}*/
+
+

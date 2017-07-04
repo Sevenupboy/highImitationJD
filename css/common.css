@@ -1,0 +1,26 @@
+.links {
+    text-align: center;
+    font-size: 12px;
+    margin: 10px;
+}
+
+.links a{
+    margin: 0px 12px;
+    font-size: 12px;
+}
+
+.copyright{
+    text-align: center;
+}
+
+.copyright span{
+    font-size: 12px;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
