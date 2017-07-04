@@ -1,0 +1,78 @@
+#home .home-advertisement {
+
+    background-color: #111;
+}
+
+#home .home-usernav {
+    height: 30px;
+    background-color: #222;
+}
+
+#home .home-header {
+    height: 140px;
+    background-color: #333;
+}
+
+#home .home-allnav {
+    height: 480px;
+    margin-bottom: 10px;
+    background-color: #444;
+}
+
+#home .home-seckill {
+    height: 305px;
+    margin-bottom: 30px;
+    background-color: #555;
+}
+
+#home .home-fbr {
+    height: 444px;
+    margin-bottom: 30px;
+    background-color: #666;
+}
+
+#home .home-coupon {
+    height: 215px;
+    margin-bottom: 30px;
+    background-color: #777;
+}
+
+#home .home-rec {
+    height: 100px;
+    margin-bottom: 30px;
+    background-color: #888;
+}
+
+#home .home-quality {
+    height: 585px;
+    margin-bottom: 30px;
+    background-color: #999;
+}
+
+#home .home-life-title {
+    height: 578px;
+    background-color: #aaa;
+}
+
+#home .home-life {
+    height: 523px;
+    margin-bottom: 30px;
+    background-color: #bbb;
+}
+
+#home .home-special {
+    height: 195px;
+    margin-bottom: 30px;
+    background-color: #ccc;
+}
+
+#home .home-more {
+    min-height: 300px;
+    margin-bottom: 30px;
+    background-color: #ddd;
+}
+
+#home .home-footer {
+    height: 500px;
+    background-color: #eaeaea;
+}
