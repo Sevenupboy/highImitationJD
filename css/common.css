@@ -24,3 +24,24 @@
     clear: both;
     visibility: hidden;
 }
+
+
+.red {
+    color: red !important;
+}
+
+.green {
+    color: green !important;
+}
+
+.blue {
+    color: blue !important;
+}
+
+.yellow {
+    color:yellow !important;
+}
+
+.pink {
+    color: pink !important;
+}
